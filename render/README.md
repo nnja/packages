@@ -26,7 +26,7 @@ Choose a template to set up your first workspace. You can also [create your own 
 
 ### 4. Create your first workspace
 
-[**Workspaces**](https://coder.com/docs/v2/latest/workspaces): Workspaces contain the IDEs, dependencies, and configuration information needed for software development. You can create workspaces from templates. Here wea are showing the workspaces created from the Fly.io starter template in action.
+[**Workspaces**](https://coder.com/docs/v2/latest/workspaces): Workspaces contain the IDEs, dependencies, and configuration information needed for software development. You can create workspaces from templates. Here we are showing the workspaces created from the Fly.io starter template in action.
 ![fly.io workspace](https://raw.githubusercontent.com/coder/blogs/main/posts/coder-on-railway/static/fly_workspace.png)
 
 ## Optional
